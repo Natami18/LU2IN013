@@ -1,0 +1,362 @@
+Données initiales : 
+- budget : 3000€
+- nombre de votants : 60000
+- tableau projet-coût-valeur : 
+1	2	3	4	5	6	
+1790	1022	1030	14	470	912	
+3	9	6	9	5	10	
+
+
+Première instance : 
+    * Choix votant 1 a : 
+        - Choix final 1 : 
+1	2	3	4	5	6	
+0	1	0	1	1	0
+
+	- Choix final 2 : 
+1	2	3	4	5	6	
+0	1	0	1	1	0
+
+	- Choix final 3 : 
+1	2	3	4	5	6	
+0	1	1	0	1	0	
+
+	- Choix final 4 : 
+1	2	3	4	5	6	
+0	1	0	0	1	1
+
+	- Choix final 5 : 
+1	2	3	4	5	6	
+1	1	0	0	1	0
+
+
+    * Choix votant 1 b : 
+        - Choix final 1 : 
+1	2	3	4	5	6	
+0	1	1	0	1	0
+
+	- Choix final 2 : 
+1	2	3	4	5	6	
+1	1	0	0	0	1
+
+	- Choix final 3 : 
+1	2	3	4	5	6	
+0	1	1	0	1	0
+
+	- Choix final 4 : 
+1	2	3	4	5	6	
+0	1	1	0	1	0
+
+	- Choix final 5 : 
+1	2	3	4	5	6	
+1	1	1	0	0	0
+
+
+    * Choix votant 2 a : 
+        - Choix final 1 : 
+1	2	3	4	5	6
+0	1	0	1	1	0
+
+	- Choix final 2 : 
+1	2	3	4	5	6	
+0	1	0	1	1	0
+
+	- Choix final 3 : 
+1	2	3	4	5	6	
+0	1	1	0	1	0
+
+	- Choix final 4 : 
+1	2	3	4	5	6	
+0	1	0	0	1	1
+
+	- Choix final 5 : 
+1	2	3	4	5	6	
+1	1	0	1	0	0
+
+
+    * Choix votant 2 b : 
+        - Choix final 1 : 
+1	2	3	4	5	6	
+1	1	0	1	0	0
+
+	- Choix final 2 : 
+1	2	3	4	5	6	
+1	1	0	1	0	0
+
+	- Choix final 3 : 
+1	2	3	4	5	6	
+0	1	0	0	1	0
+
+	- Choix final 4 : 
+1	2	3	4	5	6	
+1	1	1	0	0	0
+
+	- Choix final 5 : 
+1	2	3	4	5	6	
+1	1	0	1	0	0
+
+Deuxième instance : 
+    * Choix votant 1 a : 
+        - Choix final 1 : 
+1	2	3	4	5	6	
+1	1	0	1	0	1
+
+	- Choix final 2 : 
+1	2	3	4	5	6	
+0	1	0	1	1	1
+
+	- Choix final 3 : 
+1	2	3	4	5	6	
+0	1	0	1	0	1
+
+	- Choix final 4 : 
+1	2	3	4	5	6	
+1	0	1	1	0	1
+
+	- Choix final 5 : 
+1	2	3	4	5	6	
+1	1	0	0	1	1
+
+
+    * Choix votant 1 b : 
+        - Choix final 1 : 
+1	2	3	4	5	6	
+0	0	1	1	1	1
+
+	- Choix final 2 : 
+1	2	3	4	5	6	
+1	1	0	0	1	1
+
+	- Choix final 3 : 
+1	2	3	4	5	6	
+0	0	1	1	1	1
+
+	- Choix final 4 : 
+1	2	3	4	5	6	
+1	0	1	1	0	1
+
+	- Choix final 5 : 
+1	2	3	4	5	6	
+1	0	1	1	0	1
+
+
+    * Choix votant 2 a : 
+        - Choix final 1 : 
+1	2	3	4	5	6	
+0	1	0	1	1	1
+
+	- Choix final 2 : 
+1	2	3	4	5	6	
+0	1	0	1	1	1
+
+	- Choix final 3 : 
+1	2	3	4	5	6	
+0	1	0	1	1	1
+
+	- Choix final 4 : 
+1	2	3	4	5	6	
+1	0	1	1	0	1
+
+	- Choix final 5 : 
+1	2	3	4	5	6	
+1	1	0	1	0	1
+
+
+    * Choix votant 2 b : 
+        - Choix final 1 : 
+1	2	3	4	5	6	
+1	1	0	1	0	1
+
+	- Choix final 2 : 
+1	2	3	4	5	6	
+1	1	0	1	0	1
+
+	- Choix final 3 : 
+1	2	3	4	5	6	
+0	1	0	1	0	1
+
+	- Choix final 4 : 
+1	2	3	4	5	6	
+0	0	1	1	1	1
+
+	- Choix final 5 : 
+1	2	3	4	5	6	
+0	0	1	0	1	1
+
+
+Troisième instance : 
+    * Choix votant 1 a : 
+        - Choix final 1 : 
+1	2	3	4	5	6	
+0	0	1	1	0	0
+
+	- Choix final 2 : 
+1	2	3	4	5	6	
+1	1	0	0	0	1	
+
+	- Choix final 3 : 
+1	2	3	4	5	6	
+0	0	0	1	0	1
+
+	- Choix final 4 : 
+1	2	3	4	5	6	
+0	0	1	1	0	0
+
+	- Choix final 5 : 
+1	2	3	4	5	6	
+1	0	1	0	0	1
+
+
+    * Choix votant 1 b : 
+        - Choix final 1 : 
+1	2	3	4	5	6	
+0	0	0	1	1	0
+
+	- Choix final 2 : 
+1	2	3	4	5	6	
+1	0	1	0	0	1	
+
+	- Choix final 3 : 
+1	2	3	4	5	6	
+0	0	0	0	1	1	
+
+	- Choix final 4 : 
+1	2	3	4	5	6	
+0	0	0	1	1	0	
+
+	- Choix final 5 : 
+1	2	3	4	5	6	
+0	0	0	0	1	1
+
+
+    * Choix votant 2 a : 
+        - Choix final 1 : 
+1	2	3	4	5	6	
+0	0	0	0	1	1
+
+	- Choix final 2 : 
+1	2	3	4	5	6	
+0	0	0	0	1	1
+
+	- Choix final 3 : 
+1	2	3	4	5	6	
+0	0	0	0	1	1
+
+	- Choix final 4 : 
+1	2	3	4	5	6	
+1	0	1	0	0	1
+
+	- Choix final 5 : 
+1	2	3	4	5	6	
+1	0	1	0	0	1
+
+
+    * Choix votant 2 b : 
+        - Choix final 1 : 
+1	2	3	4	5	6	
+1	1	0	0	0	1
+
+	- Choix final 2 : 
+1	2	3	4	5	6	
+1	1	0	0	0	1
+
+	- Choix final 3 : 
+1	2	3	4	5	6	
+0	1	0	0	0	1
+
+	- Choix final 4 : 
+1	2	3	4	5	6	
+1	1	0	0	0	1
+
+	- Choix final 5 : 
+1	2	3	4	5	6	
+1	0	0	0	1	0
+
+
+Quatrième instance : 
+    * Choix votant 1 a : 
+        - Choix final 1 : 
+1	2	3	4	5	6	
+1	0	1	1	0	0
+
+	- Choix final 2 : 
+1	2	3	4	5	6	
+0	1	0	1	1	1
+
+	- Choix final 3 : 
+1	2	3	4	5	6	
+0	0	1	1	1	1
+
+	- Choix final 4 : 
+1	2	3	4	5	6	
+1	1	0	1	0	0
+
+	- Choix final 5 : 
+1	2	3	4	5	6	
+1	0	0	1	1	0
+
+
+    * Choix votant 1 b : 
+        - Choix final 1 : 
+1	2	3	4	5	6	
+1	0	1	1	0	0
+
+	- Choix final 2 : 
+1	2	3	4	5	6	
+1	0	1	0	1	1
+
+	- Choix final 3 : 
+1	2	3	4	5	6	
+0	0	1	1	0	0
+
+	- Choix final 4 : 
+1	2	3	4	5	6	
+1	0	0	1	0	1
+
+	- Choix final 5 : 
+1	2	3	4	5	6	
+0	0	1	1	0	1
+
+
+    * Choix votant 2 a : 
+        - Choix final 1 : 
+1	2	3	4	5	6	
+0	1	1	1	1	1
+
+	- Choix final 2 : 
+1	2	3	4	5	6	
+0	1	1	1	1	1
+
+	- Choix final 3 : 
+1	2	3	4	5	6	
+0	1	1	1	1	1
+
+	- Choix final 4 : 
+1	2	3	4	5	6	
+1	1	1	0	1	1
+
+	- Choix final 5 : 
+1	2	3	4	5	6	
+1	1	1	0	1	1
+
+
+    * Choix votant 2 b : 
+        - Choix final 1 : 
+1	2	3	4	5	6	
+0	0	1	0	1	1
+
+	- Choix final 2 : 
+1	2	3	4	5	6	
+0	0	1	0	1	1
+
+	- Choix final 3 : 
+1	2	3	4	5	6	
+1	0	1	0	1	0
+
+	- Choix final 4 : 
+1	2	3	4	5	6	
+0	1	1	0	1	0
+
+	- Choix final 5 : 
+1	2	3	4	5	6	
+0	0	1	1	1	0

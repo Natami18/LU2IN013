@@ -1,0 +1,42 @@
+Description de la fonction choix_final_1 :
+
+Le budget est de 3000€.
+Le nombre de votants est 60000.
+
+Voici le tableau objet-poids-valeur :
+1	2	3	4	5	6	
+911	1922	125	1958	1271	106	
+4	9	10	10	0	5	
+
+Voici le graphe associé aux choix des votants :
+8849	2692	183	2797	1816	167	
+2692	18368	368	5827	3762	362	
+183	368	1201	366	242	31	
+2797	5827	366	18995	3899	373	
+1816	3762	242	3899	12405	233	
+167	362	31	373	233	1188	
+
+Voici le tableau de choix : 
+1	2	3	4	5	6	
+1	0	1	1	0	0	
+
+Le cout moyen d'un objet est 998.00€.
+La valeur moyenne d'un objet est 8.00.
+Le nombre d'objets selectionnes est 3.
+Le cout total des objets selectionnes est 2994€.
+Le nombre d'objets choisis par un votant finalement selectionnes est 0.48.
+Le nombre de personnes qui ont voté pour au moins un objet est 41522, soit 69.20 pourcent des votants.
+Le nombre de personnes qui n'ont voté pour aucun projet est 18478, soit 30.80 pourcent des votants.
+Le nombre de personnes qui ont au moins un objet selectionne est 25753, soit 42.92 pourcent des votants.
+Le nombre de personnes totalement insatisfaites est 15769, soit 26.28 pourcent des votants.
+Le nombre de personnes dont le taux de satisfaction est entre 0 pourcent et 10 pourcent est 0, soit 0.00 pourcent des votants.
+Le nombre de personnes dont le taux de satisfaction est entre 10 pourcent et 20 pourcent est 0, soit 0.00 pourcent des votants.
+Le nombre de personnes dont le taux de satisfaction est entre 20 pourcent et 30 pourcent est 0, soit 0.00 pourcent des votants.
+Le nombre de personnes dont le taux de satisfaction est entre 30 pourcent et 40 pourcent est 24, soit 0.04 pourcent des votants.
+Le nombre de personnes dont le taux de satisfaction est entre 40 pourcent et 50 pourcent est 1543, soit 2.57 pourcent des votants.
+Le nombre de personnes dont le taux de satisfaction est entre 50 pourcent et 60 pourcent est 9118, soit 15.20 pourcent des votants.
+Le nombre de personnes dont le taux de satisfaction est entre 60 pourcent et 70 pourcent est 0, soit 0.00 pourcent des votants.
+Le nombre de personnes dont le taux de satisfaction est entre 70 pourcent et 80 pourcent est 1212, soit 2.02 pourcent des votants.
+Le nombre de personnes dont le taux de satisfaction est entre 80 pourcent et 90 pourcent est 15, soit 0.03 pourcent des votants.
+Le nombre de personnes dont le taux de satisfaction est entre 90 pourcent et 100 pourcent est 0, soit 0.00 pourcent des votants.
+Le nombre de personnes totalement satisfaites est 13841, soit 23.07 pourcent des votants.
