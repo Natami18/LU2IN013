@@ -1,0 +1,28 @@
+projet LU2IN013
+
+(Rendez-vous n°3)
+1er algorithme : 
+Soit B un coût fixé, on considère deux cas : 
+	1) cas où chaque votant sélectionne les projets qu'il veut
+	2) cas où chaque votant sélectionne des projets dont le coût total est inférieur ou égal à B
+
+1) chaque votant choisit autant de projets qu'il veut dans la mesure du possible (il ne peut pas prendre plus de projet que proposé)
+
+2) chaque votant va donner une valeur qui lui ait propre (générée aléatoirement) à chaque objet (ce sera son coût). 
+	a) on utilise l'algrithme du sac à dos pour savoir quels sont les objets choisis par chaque votant. 
+	b) chaque votant classe les projets de celui qu'il préfère le plus à celui qu'il préfère le moins et on prend les projets tant qu'il rentre dans le sac à dos.
+
+2ème algorithme : étant donné ce qu'on choisit les votants, pour chaque projet,
+	version 1 : on compte le nombre de personne qui le selectionne et on les classe par nombre de personnes qui les prennent dans l'ordre décroissant (du plus préféré au moins préféré)
+	version 2 : on calcule le rapport 'nombre d'approbation/coût de l'objet' pour chaque objet et on les classe par rapport dans l'ordre décroissant
+	comparaisons possibles entre les deux algorithmes (pour le rapport)
+	tester les algorithmes avec des données réelles disponibles
+
+https://github.com/Natami18/LU2IN013.git
+
+
+(Rendez-vous n°4)
+1er algorithme : un générateur aléatoire de valeurs pour les objets comprises entre une borne inf et une borne sup
+
+2ème algorithme : un graphe avec tous les couples d'objets, chaque projet est représenté par un point et il y a une arrête entre chaque projet avec poids qui correspond au nombre de personnes qui prennent ces deux projets parmi les projets qu'ils ont choisis. on peut représenter le graphe par une matrice ou par une liste d'adjacence. (Le graphe serait donc non orienté.)
+à l'aide de ce graphe, écrire d'autres algorithmes permettant de trouver le meilleur budget participatif (utile pour le rapport)

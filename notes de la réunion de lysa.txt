@@ -1,0 +1,90 @@
+PROJET
+
+
+lien GitHub à la fin du rapport
+Introduire sac a dos
+
+2.1
+date sac a dos
+chaque objet i a un poids Pi
+
+2.2 Resolution
+presentation de l’algorithme
+résoudre pb du sac a dos
+
+C’est une resolution exacte du pb du sac a dos 
+
+exemple en gras
+ complexité sac a dos en n^2 somme des Vi
+
+pas de nom de fichier
+
+
+Chap 3
+
+1.a = vote par approbation au hasard
+1.b = vote par approbation 
+
+Mettre 1.a et 1.b ensmemble comme deux sous-variantes : a par hasard et b ont tendance a approuver un projet au poids plus élevé
+écrire comment on tire en fonction de la somme des poids
+
+on pourrait multiplier par une constante pour avoir au moins c projets
+
+2.a et 2.b : vote par sac a dos
+avec deux sous-variantes dire que c’est aléatoire 
+sac a dos exact et sac a dos approché (nouveaux noms)
+
+CHANGER LES NOMS 
+
+ENLEVER les noms de fonction 
+
++ conclusion : dire que’on  a des méthodes  de votes 1 et 2 et des modes aléatoires ou non a et b et qu’on va les étudier après (caractérisqtiques de votes et méthodes des votants)
+
+METTRE PAGE 6 EN ANNEXE 
+
+CHAP2 plus le sac a dos plus de poids ni de valeur que des coûts et des votes et des projets
+
+mtn budget participatif : poids = coût 
+
+retirer la ligne des valeurs sur le tableau des données initiales
+
+mettre matrice en ANNEXE ou dans le chapitre 5 mais pas à la suite 
+
+voir problème algorithme 2.a problème niveau 0 
+
+Expliquer qu’on l’appelle random parce qu’on génère des données automatiques 
+
+CHANGER LES NOMS DES ALGO PAS CHOIX 1 
+
+pas valeurs DES VOTES
+
+\times pour les fois
+
+et parentheses mal placées 
+
+expliquer les complexités ATTENTION
+
+refaire tableaux avec v lignes et n colonnes 
+ mettre courbe complexité dans le texte et les tableaux en annexe 
+
+c = somme des vi 
+
+Enlever B complexité choix 3 
+
+Changer nom algorithme graphes pacque c’est moche
+
+voir intro chap 5 fautes orthographes
+ 
+élaborer choix 4
+
+voisin de j pas le voisin de i à chaque fois donc expliquer 
+
+vérifier complexité
+
+choix 4 : premier truc enlever 0 (n^2*log(n))
+
+choix 5 : celui qui a été le moins choisi avec le risque d’avoir un projet qui n’a été voté par personne 
+
+mettre à titre d’illustration : sinon faire plus d’instance 
+
+choix 3 regarder comparaison projet choisi au final été projet final choisi par personne
